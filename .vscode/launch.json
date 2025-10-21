@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Отладка script.js",
+      "program": "${workspaceFolder}/сreateCart_function.js"
+    }
+  ]
+}
