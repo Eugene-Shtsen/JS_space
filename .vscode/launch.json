@@ -8,11 +8,11 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "Check timer_function",
+            "name": "Check obj_copy",
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\timer_function.js"
+            "program": "${workspaceFolder}\\obj_copy_function.js"
         }
     ]
 }
